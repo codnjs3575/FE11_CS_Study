@@ -19,18 +19,19 @@
 - 1주에 챕터 1장 학습
 - (발표자 제외) 각 스터디원은 해당 주에 학습하는 내용 준비
   <br>
-  -> 해당 범위 공부한 내용 정리해서 <a href="https://github.com/mumalaf/CS-Study/pulls">pr</a> 생성 & merge
+  -> 해당 범위 공부한 내용 정리해서 <a href="https://github.com/mumalaf/CS-Study/pulls">pr</a> 생성 & merge (해당 주차의 금요일까지)
   <br>
   -> 공부하면서 모르는 내용 / 질문할 만한 내용 해당 <a href="https://github.com/mumalaf/CS-Study/issues">issue</a>에 코멘트 달기
   <br>
+  -> 질문은 수요일까지 issue 댓글에 작성
 - (발표자) 해당 주에 학습하는 내용 공부 및 발표 준비
   <br>
-  -> 해당 범위 공부한 내용 정리해서 <a href="https://github.com/mumalaf/CS-Study/pulls">pr</a> 생성 & merge
+  -> 해당 범위 공부한 내용 정리해서 <a href="https://github.com/mumalaf/CS-Study/pulls">pr</a> 생성 & merge (해당 주차의 금요일까지)
   <br>
   -> 질문 및 답변, 보완할 내용 등 발표에 대한 기록 해당 <a href="https://github.com/mumalaf/CS-Study/issues">issue</a>에 코멘트 달기
   <br>
+  -> 질문을 미리 보고 답변을 준비해와서 스터디 시간(발표 이후)에 답변 진행
 - 매 스터디 모임마다 발표자를 제외한 모든 스터디원은 최소 1개의 질문 필수
-- 매 스터디 모임마다 발표할 사람은 직전 스터디 모임에서 랜덤으로 결정
 - 스터디 내용은 정해진 도서를 기반으로 진행
   -> 추가적인 내용 필요 시 명확한 출처 표기
 
