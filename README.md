@@ -19,8 +19,6 @@
 - 1주에 챕터 1장 학습
 - (발표자 제외) 각 스터디원은 해당 주에 학습하는 내용 준비
   <br>
-  -> 해당 범위 공부한 내용 정리해서 <a href="https://github.com/mumalaf/CS-Study/pulls">pr</a> 생성 & merge (해당 주차의 금요일까지)
-  <br>
   -> 공부하면서 모르는 내용 / 질문할 만한 내용 해당 <a href="https://github.com/mumalaf/CS-Study/issues">issue</a>에 코멘트 달기
   <br>
   -> 질문은 수요일까지 issue 댓글에 작성
